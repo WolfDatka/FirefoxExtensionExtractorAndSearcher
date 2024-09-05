@@ -1,0 +1,6 @@
+# Dirs
+build
+dist
+
+# Files
+*.spec
